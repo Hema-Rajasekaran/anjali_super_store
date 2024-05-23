@@ -1,18 +1,56 @@
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 350px) {
   #features {
     padding: 20px;
-    width: 111%;
+    width: 150%;
   }
-  #about,
-  #services,
+  #about{
+    width: 150%;
+  }
+  #services{
+    padding: 20px;
+    width: 150%;
+  }
   #testimonials,
-  #team,
-  #contact,
+  #team{
+    padding: 20px;
+    width: 150%;
+  }
+  #contact{
+    width: 150%;
+  }
   #footer {
     width: 111%;
   }
 
   #portfolio {
-    width: 110%;
+    width: 100%;
+  }
+}
+@media screen and (max-width: 265px) {
+  #features {
+    padding: 20px;
+    width: 150%;
+  }
+  #about{
+    width: 150%;
+  }
+  #services{
+    padding: 20px;
+    width: 150%;
+  }
+  #testimonials,
+  #team{
+    padding: 20px;
+    width: 150%;
+  }
+  #contact{
+    width: 150%;
+  }
+  #footer {
+    width: 111%;
+  }
+
+  #portfolio {
+    width: 100%;
   }
 }
