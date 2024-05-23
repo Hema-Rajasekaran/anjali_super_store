@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "THE REAL WHOLESALE SHOP",
+    "paragraph": "Your Trusted Source for Quality Wholesale Products"
+  },
+  "About": {
+    "paragraph": "Established in October 2022, Anjali's began its journey as a humble bakery, aiming to bring the finest baked goods to our community. With dedication and passion, we soon expanded our offerings to include other food packaging products. Over the course of a year, we ventured into rice products and expanded our range to encompass various grocery items.",
+    "Why": [
+      "Wholesale Rate",
+      "Timely Delivery",
+      "All In One",
+      "Customer Relationship"
+    ],
+    "Why2": [
+      "Exceptional Behavior",
+      "Good Experience",
+      "Quality Assurance",
+      "Innovative Solutions"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "grocery",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "bake products",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Rice",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": ""
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "",
+      "name": "name",
+      "job": "position"
+    },
+    {
+      "img": "",
+      "name": "name",
+      "job": "position"
+    },
+    {
+      "img": "",
+      "name": "name",
+      "job": "Position"
+    },
+    {
+      "img": "",
+      "name": "name",
+      "job": "Position"
+    }
+  ],
+  "Contact": {
+    "address": "",
+    "phone": "+91 87782 88744",
+    "email": "assforfuture@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "img/portfolio/bake.png",
+      "title": "BAKERY SHOP",
+      "text": "Each creation is a testament to our passion for baking and our commitment to quality. Discover your new favorite treat today at Anjali's Bakery Shop."
+    },
+    {
+      "icon": "img/portfolio/barber.png",
+      "title": "BARBER SHOP",
+      "text": " Our products are chosen for their superior performance and reliability. Trust Anjali's Barber Shop to provide you with the best in grooming essentials – because you deserve nothing less."
+    },
+    {
+      "icon": "img/portfolio/hotel.jpeg",
+      "title": "RESTAURANT",
+      "text": "Each product is made with the same passion and quality that define our restaurant. Elevate your home cooking with Anjali's exclusive culinary products – because exceptional taste starts with exceptional ingredients."
+    },
+    {
+      "icon": "img/portfolio/roll.jpeg",
+      "title": "OCCASION ITEMS",
+      "text": "Make your celebrations unforgettable with Anjali's exclusive range of occasion items. At Anjali's, we take pride in helping you create beautiful moments."
+    }
+  ]
+}
