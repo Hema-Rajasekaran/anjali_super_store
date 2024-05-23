@@ -1,4 +1,4 @@
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 320px) {
   #features {
     padding: 20px;
     width: 150%;
@@ -29,22 +29,22 @@
 @media screen and (max-width: 265px) {
   #features {
     padding: 20px;
-    width: 150%;
+    width: 200%;
   }
   #about{
-    width: 150%;
+    width: 200%;
   }
   #services{
     padding: 20px;
-    width: 150%;
+    width: 200%;
   }
   #testimonials,
   #team{
     padding: 20px;
-    width: 150%;
+    width: 200%;
   }
   #contact{
-    width: 150%;
+    width: 200%;
   }
   #footer {
     width: 111%;
