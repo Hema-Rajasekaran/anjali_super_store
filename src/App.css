@@ -1,56 +1,118 @@
+@media screen and (max-width: 450px) {
+  #header{
+    width: 130%;
+  }
+  #features {
+    padding: 20px;
+    width: 130%;
+  }
+  #about{
+    width: 130%;
+  }
+  #services{
+    padding: 20px;
+    width: 130%;
+  }
+  #testimonials,
+  #team{
+    padding: 20px;
+    width: 130%;
+  }
+  #contact{
+    width: 130%;
+  }
+  #footer {
+    width: 130%;
+  }
+
+  #portfolio {
+    width: 130%;
+  }
+}
+@media screen and (max-width: 380px) {
+  #header{
+    width: 150%;
+  }
+  #features {
+    padding: 20px;
+    width: 150%;
+  }
+  #about{
+    width: 150%;
+  }
+  #services{
+    padding: 20px;
+    width: 150%;
+  }
+  #testimonials,
+  #team{
+    padding: 20px;
+    width: 150%;
+  }
+  #contact{
+    width: 150%;
+  }
+  #footer {
+    width: 150%;
+  }
+
+  #portfolio {
+    width: 150%;
+  }
+}
 @media screen and (max-width: 320px) {
   #features {
     padding: 20px;
-    width: 150%;
+    width: 180%;
   }
   #about{
-    width: 150%;
+    width: 180%;
   }
   #services{
     padding: 20px;
-    width: 150%;
+    width: 180%;
   }
   #testimonials,
   #team{
     padding: 20px;
-    width: 150%;
+    width: 180%;
   }
   #contact{
-    width: 150%;
+    width: 180%;
   }
   #footer {
-    width: 111%;
+    width: 180%;
   }
 
   #portfolio {
-    width: 100%;
+    width: 180%;
   }
 }
-@media screen and (max-width: 265px) {
+@media screen and (max-width: 250px) {
   #features {
     padding: 20px;
-    width: 200%;
+    width: 220%;
   }
   #about{
-    width: 200%;
+    width: 220%;
   }
   #services{
     padding: 20px;
-    width: 200%;
+    width: 220%;
   }
   #testimonials,
   #team{
     padding: 20px;
-    width: 200%;
+    width: 220%;
   }
   #contact{
-    width: 200%;
+    width: 220%;
   }
   #footer {
-    width: 111%;
+    width: 220%;
   }
 
   #portfolio {
-    width: 100%;
+    width: 220%;
   }
 }
