@@ -116,3 +116,59 @@
     width: 220%;
   }
 }
+@media screen and (max-width: 200px) {
+  #features {
+    padding: 20px;
+    width: 300%;
+  }
+  #about{
+    width: 300%;
+  }
+  #services{
+    padding: 20px;
+    width: 300%;
+  }
+  #testimonials,
+  #team{
+    padding: 20px;
+    width: 300%;
+  }
+  #contact{
+    width: 300%;
+  }
+  #footer {
+    width: 300%;
+  }
+
+  #portfolio {
+    width: 300%;
+  }
+}
+@media screen and (max-width: 150px) {
+  #features {
+    padding: 20px;
+    width: 380%;
+  }
+  #about{
+    width: 380%;
+  }
+  #services{
+    padding: 20px;
+    width: 380%;
+  }
+  #testimonials,
+  #team{
+    padding: 20px;
+    width: 380%;
+  }
+  #contact{
+    width: 380%;
+  }
+  #footer {
+    width: 380%;
+  }
+
+  #portfolio {
+    width: 280%;
+  }
+}
