@@ -154,7 +154,7 @@ export const Contact = (props) => {
         <div className="container text-center">
           <p>
             &copy; 2024 Anjali Super Store Web Page. Design by{" "}
-            <a href="https:/www.linkedin.com/in/abdul-kareem-gadhafi-a-355533213/" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/abdul-kareem-gadhafi-a-355533213/" target="_blank" rel="noopener noreferrer">
               AKG
             </a>
           </p>
