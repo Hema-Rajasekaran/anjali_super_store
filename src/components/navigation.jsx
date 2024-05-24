@@ -1,5 +1,5 @@
 import React from "react";
-
+import imgg from "../../src/components/images/logo.ico";
 export const Navigation = (props) => {
   return (
     <nav id="menu" className="navbar navbar-default navbar-fixed-top">
@@ -17,6 +17,9 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
+          <div className="" style={{width:"50px",height:"50px"}}>
+            <img src={imgg} style={{width:"50px",height:"50px"}}/>
+          </div>
           <a className="navbar-brand page-scroll" href="#page-top">
             ANJALI SUPER STORE
           </a>{" "}
@@ -53,7 +56,7 @@ export const Navigation = (props) => {
               </a>
             </li>
              */}
-             <li>
+            <li>
               <a href="#team" className="page-scroll">
                 Team
               </a>
