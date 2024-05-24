@@ -17,12 +17,16 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
-          <div className="" style={{width:"50px",height:"50px"}}>
-            <img src={imgg} style={{width:"50px",height:"50px"}}/>
+          <div style={{ display: "inline-flex", alignItems: "center" }}>
+            <img src={imgg} style={{ width: "50px", height: "50px" }} />
+            <a
+              className="navbar-brand page-scroll"
+              href="#page-top"
+              style={{ marginLeft: "25px" }}
+            >
+              ANJALI SUPER STORE
+            </a>
           </div>
-          <a className="navbar-brand page-scroll" href="#page-top">
-            ANJALI SUPER STORE
-          </a>{" "}
         </div>
 
         <div
@@ -58,7 +62,7 @@ export const Navigation = (props) => {
              */}
             <li>
               <a href="#team" className="page-scroll">
-                Team
+                Our Team
               </a>
             </li>
             <li>
