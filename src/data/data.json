@@ -67,34 +67,34 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "grocery",
-      "text": ""
+      "icon": "img/portfolio/packa.jpg",
+      "name": "Packaging Supplies",
+      "text": "Discover top-quality packaging solutions at Anjali Super Store! From durable boxes to eco-friendly materials."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "bake products",
-      "text": ""
+      "icon": "img/portfolio/food.jpg",
+      "name": "Food Additives",
+      "text": "Enhance your food's flavor, appearance, and shelf-life with carefully regulated food additives. Enjoy the benefits of modern food science in every bite!"
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Rice",
-      "text": ""
+      "icon": "img/portfolio/grain.jpg",
+      "name": "Grains",
+      "text": "Grains are nutrient-rich staples that form the foundation of diets worldwide, offering essential carbohydrates, fiber, and vitamins. Enjoy the nutritional value of grains in every meal!"
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": ""
+      "icon": "img/portfolio/nature.jpg",
+      "name": "Nature-Friendly Goods",
+      "text": "Embrace sustainable living with our nature-friendly goods, designed to reduce environmental impact and promote a healthier planet. Choose nature-friendly goods and support a greener, cleaner future!"
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": ""
+      "icon": "img/portfolio/barbe.jpg",
+      "name": "Barber Shop Products",
+      "text": "Elevate your grooming routine with our premium barber shop products, crafted with the finest ingredients to deliver professional results.Experience the luxury of a barber shop at home with our exclusive collection."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": ""
+      "icon": "img/portfolio/paper.jpg",
+      "name": "Paper Goods",
+      "text": "Discover the versatility and eco-friendliness of our paper goods, perfect for everyday use and special occasions. From recycled paper towels to compostable plates, our range combines convenience with sustainability."
     }
   ],
   "Testimonials": [
