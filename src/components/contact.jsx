@@ -1,5 +1,6 @@
 import { useState } from "react";
-import emailjs from "emailjs-com";
+// import emailjs from "emailjs-com";
+import emailjs from "@emailjs/browser";
 import React from "react";
 
 const initialState = {
@@ -9,6 +10,8 @@ const initialState = {
 };
 export const Contact = (props) => {
   const [{ name, email, message }, setState] = useState(initialState);
+
+  
 
   const handleChange = (e) => {
     const { name, value } = e.target;
@@ -20,11 +23,18 @@ export const Contact = (props) => {
   const handleSubmit = (e) => {
     e.preventDefault();
     console.log(name, email, message);
+
+    const templateParams={
+      from_name:name,
+      from_email:email,
+      to_name:"Anjali Super Store",
+      message:message,
+    };
     
     {/* replace below with your own Service ID, Template ID and Public Key from your EmailJS account */ }
     
     emailjs
-      .sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", e.target, "YOUR_PUBLIC_KEY")
+      .send("service_1j93fle", "template_h8vl1t5", templateParams, "LAX-a0cAWUDoia4Ja")
       .then(
         (result) => {
           console.log(result.text);
