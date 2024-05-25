@@ -1,17 +1,20 @@
 {
   "Header": {
-    "title": "THE REAL WHOLESALE SHOP",
+    "title": "An Ideal One-Stop Shop",
     "paragraph": "Your Trusted Source for Quality Wholesale Products"
   },
   "About": {
-    "paragraph": "Established in October 2022, Anjali Store's began its journey as a supplies paper products to bakery, aiming to bring the goods to our community. With dedication and passion, we soon expanded our offerings to include other food packaging products. Over the course of a year, we ventured into Grains products and expanded our range to encompass various grocery items.",
+    "paragraph": "Established in October 2022, Anjali Super Store began its journey as a supplies paper products to bakery, aiming to bring the goods to our community. With dedication and passion, we soon expanded our offerings to include other food packaging products. Over the course of a year, we ventured into Grainger products and expanded our range to encompass various grocery items. We have a other sister concern named YAZHI INTERNATIONAL, manufacturing PP Woven Bags and Sacks, a recyclable product. We are proud that we also the part in the destination of Nature friendly society.",
     "Why": [
       "Wholesale Rate",
       "Door Step Delivery To Customers",
       "All In One",
-      "Customer Relationship"
+      "Customer Relationship",
+      "Value for Money",
+      "Front Porch Delivery "
     ],
     "Why2": [
+      "Heterogeneous Product Line",
       "Exceptional Behavior",
       "Good Experience",
       "Quality Assurance",
@@ -148,7 +151,7 @@
   ],
   "Contact": {
     "address": "2-5-46/3, Thangamani Theatre Near, Pudukkottai Road, Thiruppathur, Sivagangai, Tamil Nadu, 630211",
-    "phone": "+91 87782 88744",
+    "phone": "+91 8778 2887 44",
     "email": "assforfuture@gmail.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
@@ -158,22 +161,22 @@
     {
       "icon": "img/portfolio/bake.png",
       "title": "BAKERY SHOP",
-      "text": "Each creation is a testament to our passion for baking and our commitment to quality. Discover your new favorite treat today at Anjali's Bakery Shop."
+      "text": "Each creation is a testament to our passion for baking additives and our commitment to quality. Discover your new favorite treat today with the products by Anjali Super Store."
     },
     {
       "icon": "img/portfolio/barber.png",
-      "title": "BARBER SHOP",
-      "text": " Our products are chosen for their superior performance and reliability. Trust Anjali's Barber Shop to provide you with the best in grooming essentials – because you deserve nothing less."
+      "title": "SALON SHOP",
+      "text": "Our products are chosen for their superior performance and reliability. Trust Anjali Super Store's Barber Shop products to provide you with the best in grooming essentials – because you deserve nothing less."
     },
     {
       "icon": "img/portfolio/hotel.jpeg",
       "title": "RESTAURANT",
-      "text": "Each product is made with the same passion and quality that define our restaurant. Elevate your home cooking with Anjali's exclusive culinary products – because exceptional taste starts with exceptional ingredients."
+      "text": "Each product is made with the same passion and quality that define your restaurant. Elevate your restaurant cooking with Anjali Super Store's exclusive culinary products – because exceptional taste starts with exceptional ingredients."
     },
     {
       "icon": "img/portfolio/roll.jpeg",
       "title": "OCCASION ITEMS",
-      "text": "Make your celebrations unforgettable with Anjali's exclusive range of occasion items. At Anjali's, we take pride in helping you create beautiful moments."
+      "text": "Make your celebrations unforgettable with Anjali Super Store's exclusive range of occasion items. We take pride in helping you create beautiful moments."
     }
   ]
 }
