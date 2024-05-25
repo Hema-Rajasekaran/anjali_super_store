@@ -131,19 +131,19 @@
   ],
   "Team": [
     {
-      "img": "",
-      "name": "name",
-      "job": "position"
+      "img": "img/portfolio/she.jpeg",
+      "name": "ANJALI DEVI",
+      "job": "Founder & Presedent"
     },
     {
-      "img": "",
-      "name": "name",
-      "job": "position"
+      "img": "img/portfolio/he.jpg",
+      "name": "RAJESH",
+      "job": "CEO(Cheif Executive Officer)"
     },
     {
       "img": "img/portfolio/me.jpeg",
       "name": "ABDUL KAREEM GADHAFI A",
-      "job": "Position"
+      "job": "CMO(Cheif Marketing Officer)"
     }
   ],
   "Contact": {
